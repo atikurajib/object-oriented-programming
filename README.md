@@ -12,7 +12,6 @@ The primary goal of this repository is to:
 - [About](#about)
 - [OOP Concepts Covered](#oop-concepts-covered)
 - [Language](#language)
-- [Conclusion](#conclusion)
 
 ## About
 
@@ -48,7 +47,3 @@ The repository covers various key OOP concepts, including:
 ## Language
 
 The problem-solving examples are implemented in **python** programming language.
-
-## Conclusion
-
-Happy coding and enjoy learning OOP! 🎉
