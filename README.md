@@ -11,7 +11,8 @@ The primary goal of this repository is to:
 
 - [About](#about)
 - [OOP Concepts Covered](#oop-concepts-covered)
-- [Languages](#languages)
+- [Language](#language)
+- [Conclusion](#conclusion)
 
 ## About
 
@@ -44,8 +45,10 @@ The repository covers various key OOP concepts, including:
 5. **Abstraction**  
    - Using abstract classes and interfaces to hide complex details and focus on high-level functionality.
 
-## Languages
+## Language
 
-The problem-solving examples are implemented in python programming language.
+The problem-solving examples are implemented in **python** programming language.
+
+## Conclusion
 
 Happy coding and enjoy learning OOP! 🎉
