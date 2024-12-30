@@ -46,4 +46,4 @@ The repository covers various key OOP concepts, including:
 
 ## Language
 
-The problem-solving examples are implemented in **Python** programming language.
+The problem-solving examples are implemented in **Java & Python** programming language.
