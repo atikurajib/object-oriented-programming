@@ -1,6 +1,6 @@
-# Object-Oriented Programming Systems (OOPS)
+# Object Oriented Programming (OOP)
 
-Welcome to the **Object-Oriented Programming Systems (OOPS)** repository! This project contains conceptual problem-solving examples and implementations that demonstrate the fundamental principles of Object-Oriented Programming (OOP). Whether you're a beginner learning OOP or an experienced developer looking to reinforce key concepts, this repository has you covered.
+Welcome to the **Object-Oriented Programming (OOP)** repository! This repo contains conceptual problem-solving examples and implementations that demonstrate the fundamental principles of Object-Oriented Programming (OOP). Whether you're a beginner learning OOP or an experienced developer looking to reinforce key concepts, this repository has you covered.
 
 The primary goal of this repository is to:
 - Provide clear, concise examples that illustrate core OOP concepts.
@@ -9,41 +9,24 @@ The primary goal of this repository is to:
 
 ## Table of Contents
 
-- [About](#about)
-- [OOP Concepts Covered](#oop-concepts-covered)
+- [Topics](#topics)
 - [Language](#language)
 
-## About
+## Topics
 
 This repository includes problem-solving examples and exercises focused on the following Object-Oriented Programming principles:
 
-- **Classes and Objects**: Understanding the basic building blocks of OOP.
-- **Inheritance**: Demonstrating how subclasses can inherit from superclasses.
-- **Polymorphism**: Exploring method overriding and interfaces to achieve flexibility.
-- **Encapsulation**: Hiding internal details and exposing only necessary components.
-- **Abstraction**: Using abstract classes and interfaces to define essential functionality while hiding implementation details.
+- **Class, Object, and Method**
+- **Constructor, Interface, Abstract Class**
+- **Encapsulation**
+- **Abstraction**
+- **Association, Aggregation, Composition, and Delegation**
+- **Inheritance**
+- **Polymorphism**
+- **Keywords**
 
 Each problem comes with a solution that clearly explains the application of OOP concepts in real-world scenarios.
 
-## OOP Concepts Covered
-
-The repository covers various key OOP concepts, including:
-
-1. **Classes and Objects**  
-   - Basic concepts of defining and using classes and objects in OOP.
-  
-2. **Inheritance**  
-   - How classes can inherit properties and behaviors from other classes.
-
-3. **Polymorphism**  
-   - The ability to use a method in multiple ways, like method overriding and interfaces.
-
-4. **Encapsulation**  
-   - Protecting an object's internal state and restricting direct access to its fields.
-
-5. **Abstraction**  
-   - Using abstract classes and interfaces to hide complex details and focus on high-level functionality.
-
 ## Language
 
-The problem-solving examples are implemented in **Java & Python** programming language.
+The problem-solving examples are implemented in **Java** programming language.
