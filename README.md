@@ -29,4 +29,4 @@ Each problem comes with a solution that clearly explains the application of OOP 
 
 ## Language
 
-The problem-solving examples are implemented in **C#** programming language.
+The problem-solving examples are implemented in **C#** and **JavaScript** programming language.
